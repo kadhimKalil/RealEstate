@@ -20,7 +20,7 @@ void main() async {
     statusBarColor: Colors.transparent,
 
   ));
-
+// add firebase
   await Firebase.initializeApp();
 
   var messaging = FirebaseMessaging.instance.getInitialMessage();
