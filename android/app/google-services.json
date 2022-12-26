@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462869807917",
+    "project_id": "estate-test-80c89",
+    "storage_bucket": "estate-test-80c89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462869807917:android:927adcc74c660c514649a4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462869807917-i7rqndihdg46no624kmpcgbueo86bd55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5bKh19Lnf8ldZ4IKbiJGjNT9DoVamiFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462869807917-i7rqndihdg46no624kmpcgbueo86bd55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
